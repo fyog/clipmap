@@ -1,2 +1,0 @@
-# clipmap
-Geometry-Based Clipmaps
