@@ -1,1 +1,1 @@
-by sp4cerat
+example clipmap generation - not created by me.
