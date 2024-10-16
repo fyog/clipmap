@@ -1,1 +1,1 @@
-example clipmap generation - not created by me.
+example clipmap generation - not created by myself.
