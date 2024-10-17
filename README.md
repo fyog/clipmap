@@ -1,1 +1,1 @@
-example clipmap generation - not created by myself.
+reference material for ShiftingSands, not created by myself.
